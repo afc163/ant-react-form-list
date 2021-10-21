@@ -11,7 +11,7 @@
 The values are filled with additional data:
 
 ```
-test: [
+test: [{
 altKey: false
 bubbles: true
 button: 0
@@ -47,5 +47,5 @@ type: "click"
 view: Window {window: Window, self: Window, document: document, name: '', location: Location, …}
 _reactName: "onClick"
 _targetInst: null
-]
+}]
 ```
